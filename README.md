@@ -1,2 +1,2 @@
-# verulo
-Public repository for Verulo development
+# Verulo
+This is a public repository for Verulo development. [Integrates with Verulo.](https://verulo.encadyma.com)
